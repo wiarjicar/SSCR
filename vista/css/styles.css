@@ -1,0 +1,189 @@
+.ACTAINICO {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #F5F40D;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+
+.ACTAINICO p {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 5em;
+}
+
+.ACTAINICO:hover {
+	background-color: #2BF902;
+}
+.CONTRATOS {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #D4051F;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+.CONTRATOS p {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 5em;
+}
+.CONTRATOS:hover {
+	background-color: #2BF902;
+}
+
+          
+.TCONTRATOS {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #1E9406;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+.TCONTRATOS p {
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 5em;
+}
+.TCONTRATOS:hover {
+	background-color: #2BF902;
+}
+
+.FAMILIA {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #0EE4E1;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+.FAMILIA p {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 5em;
+}
+.FAMILIA:hover {
+	background-color: #2BF902;
+}
+
+.EMPLEADOS {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #E56E06;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+.EMPLEADOS p {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 5em;
+}
+.EMPLEADOS:hover {
+	background-color: #2BF902;
+}
+
+.PROVEEDOR {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #7BA8B3;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+.PROVEEDOR p {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 5em;
+}
+.PROVEEDOR:hover {
+	background-color: #2BF902;
+}
+
+.SERVICIOS {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #D404BF;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+.SERVICIOS p {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 5em;
+}
+.SERVICIOS:hover {
+	background-color: #2BF902;
+}
+
+
+.ISEGURIDAD {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #888888;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+.ISEGURIDAD p {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 6em;
+}
+.ISEGURIDAD:hover {
+	background-color: #2BF902;
+}
+
+  
+.link1:link   
+{   
+ text-decoration:none;   
+}   
+
+.CSesion {
+	width: 200px;
+	height: 80px;
+	color: #000000;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #70B30C;
+	cursor: pointer;
+	transition: background-color 1s;
+}
+
+.CSesion p {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 6em;
+}
+.CSesion:hover {
+	background-color: #2BF902;
+}

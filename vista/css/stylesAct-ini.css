@@ -1,0 +1,66 @@
+@charset "utf-8";
+@import url("stylesfamilia.css");
+.act-ini {
+	background-color: #5897EC;
+	width: 738px;
+	height: 700px;
+	border-radius: 33px;
+}
+.actini {
+	background-color: #0902A3;
+	border-radius: 21px;
+	width: 286px;
+	height: 43px;
+}
+body p {
+	color: #FBFBFB;
+	font-size: large;
+	text-align: center;
+	line-height: 2em;
+}
+
+.Aceptar {
+	width: 124px;
+	background-color: #0A1594;
+	height: 38px;
+	min-width: 0px;
+	min-height: 0px;
+	cursor: pointer;
+	transition: background-color 2s;
+	
+	
+}
+	
+.Aceptar:hover {
+	background-color: #0AEFE4;
+}
+
+
+.Cancelar {
+	width: 124px;
+	background-color: #0A1594;
+	height: 38px;
+	min-width: 0px;
+	min-height: 0px;
+	cursor: pointer;
+	transition: background-color 2s;
+	}
+
+
+.Cancelar:hover {
+	background-color: #0AEFE4;
+}
+
+.link1:link   
+{   
+ text-decoration:none;   
+} 
+#divContenido {
+	position: absolute;
+	left: 369px;
+	top: 223px;
+	width: 420px;
+	height: 200px;
+	z-index: 4;
+	overflow: auto
+	}

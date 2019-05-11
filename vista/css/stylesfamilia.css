@@ -1,0 +1,68 @@
+@charset "utf-8";
+.act-ini {
+	background-color: #5897EC;
+	width: 753px;
+	height: 503px;
+	border-radius: 33px;
+}
+.actini {
+	background-color: #0902A3;
+	border-radius: 21px;
+	width: 286px;
+	height: 43px;
+}
+body p {
+	color: #FBFBFB;
+	font-size: large;
+	text-align: center;
+	line-height: 2em;
+}
+
+.Aceptar {
+	width: 125px;
+	background-color: #0A1594;
+	height: 38px;
+	min-width: 0px;
+	min-height: 0px;
+	cursor: pointer;
+	transition: background-color 2s;
+}
+	
+.Aceptar:hover {
+	background-color: #0AEFE4;
+}
+
+
+.Cancelar {
+	width: 124px;
+	background-color: #0A1594;
+	height: 38px;
+	min-width: 0px;
+	min-height: 0px;
+	cursor: pointer;
+	transition: background-color 2s;
+	}
+
+
+.Cancelar:hover {
+	background-color: #0AEFE4;
+}
+
+.link1:link   
+{   
+ text-decoration:none;   
+}   
+
+.boton {
+	width: 162px;
+	background-color: #0A1594;
+	height: 38px;
+	min-width: 0px;
+	min-height: 0px;
+	cursor: pointer;
+	transition: background-color 2s;
+}
+	
+.boton:hover {
+	background-color: #0AEFE4;
+}
